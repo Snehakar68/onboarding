@@ -12,7 +12,7 @@ const AnimationScrn = () => {
           height: 50,
           backgroundColor: "orange",
           justifyContent: "center",
-          borderRadius: 50,
+          borderRadius: 49,
           marginVertical: 30,
         }}
         onPress={() => navigation.navigate("MultipleAnim")}
